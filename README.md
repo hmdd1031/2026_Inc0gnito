@@ -1,7 +1,6 @@
-# 2026_Inc0gnito
-IP-Camera-Security-Module
+# IP-Camera-Security-Module
 
-# Directory Architecture
+### Directory Architecture
 IoT-Sentry/
 ├── main.py
 ├── config.py
